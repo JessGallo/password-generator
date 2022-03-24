@@ -26,4 +26,4 @@ THEN the password is either displayed in an alert or written to the page\
 ![mock-up](develop/mock-up.png)
 
 ## Website
-
+https://jessgallo.github.io/password-generator/
